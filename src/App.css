@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.box {
+  width: 50vw;
+}
+
+.food-flex {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+
+form {
+  display: flex;
+  margin-bottom: 50px;
+}
